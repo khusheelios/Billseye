@@ -32,6 +32,8 @@ class BSHomeVC: UIViewController ,UICollectionViewDelegate,UICollectionViewDataS
         
         print("Hello world")
         
+        print("How r You???")
+        
 
         let itemSize = UIScreen.main.bounds.width/2 - 1
         
