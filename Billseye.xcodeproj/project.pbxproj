@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		042573992181D3C400416127 /* HelloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042573982181D3C400416127 /* HelloWorld.swift */; };
 		042893EE2063BD0B004A8790 /* BSContactselectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042893ED2063BD0B004A8790 /* BSContactselectVC.swift */; };
 		042CCC45205298420065FC49 /* BSMessagerateVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 042CCC44205298420065FC49 /* BSMessagerateVC.swift */; };
 		0440DDE1204EC86B007268DE /* BSContactVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440DDDF204EC86B007268DE /* BSContactVC.swift */; };
@@ -97,6 +98,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		042573982181D3C400416127 /* HelloWorld.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorld.swift; sourceTree = "<group>"; };
 		042893ED2063BD0B004A8790 /* BSContactselectVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BSContactselectVC.swift; sourceTree = "<group>"; };
 		042CCC44205298420065FC49 /* BSMessagerateVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BSMessagerateVC.swift; sourceTree = "<group>"; };
 		0440DDDF204EC86B007268DE /* BSContactVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BSContactVC.swift; sourceTree = "<group>"; };
@@ -323,6 +325,7 @@
 				04D0646920580BB000CCBEAD /* BSCalenderVC.swift */,
 				04B6F157205F9A5600A36BFC /* BSChartsVC.swift */,
 				042893ED2063BD0B004A8790 /* BSContactselectVC.swift */,
+				042573982181D3C400416127 /* HelloWorld.swift */,
 			);
 			path = Billseye;
 			sourceTree = "<group>";
@@ -838,6 +841,7 @@
 				04C9AC95206D2C1700728682 /* PieChartLayer.swift in Sources */,
 				0440DDE1204EC86B007268DE /* BSContactVC.swift in Sources */,
 				04C9AC82206D2C1700728682 /* Globals.swift in Sources */,
+				042573992181D3C400416127 /* HelloWorld.swift in Sources */,
 				0482ECAD205016C800EA58C3 /* BSMessagesTVC.swift in Sources */,
 				04B8CC50204D2DD60090945A /* Billseye.xcdatamodeld in Sources */,
 				04C9AC8E206D2C1700728682 /* AlphaPieLineTextLayerAnimator.swift in Sources */,
